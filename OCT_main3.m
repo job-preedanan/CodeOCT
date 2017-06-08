@@ -1,4 +1,5 @@
 clear;
+clc;
 close;
 
 global pathname;
